@@ -1,0 +1,16 @@
+
+:root{
+    /* for dark theme */
+    --dark-theme-bg :#141D2F;
+    --dark-theme-color:#FFFFFF;
+}
+/* 
+html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+*::after,*::before{
+    box-sizing: inherit;
+} */
